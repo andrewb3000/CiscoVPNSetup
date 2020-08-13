@@ -13,7 +13,9 @@ CiscoVPNSetup is the best automated way to connect to any VPN using Cisco VPN An
 4) Open Security & Privacy in System Preferences, go to Privacy, Accessibility and Unlock the window.
 Click on + and add "Script Editor" & "any_name.app" (Or Just drag and drop your application to the window).
 
-5) Launch the application from the /Applications and Run it again to Disconnect.
+5) To add custom icon right-click on .app file and select "Show Package Content". Go to Contents/Resources and replace "applet.icns" file with your custom one (name should remain the same).
+
+6) Launch the application from the /Applications and Run it again to Disconnect.
 
 
 ## To use Anyconnect VPN with DUO
